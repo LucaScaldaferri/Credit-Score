@@ -5,10 +5,9 @@ Neste projeto é realizado uma análise sobre concessão de crédito a clientes 
 Por conta da grande quantidade de dados, o projeto foi elaborado utilizando técnicas de Storytelling visando transmitir a informação de forma simples e concisa.<br><br>
 
 Link do notebook no GitHub: https://github.com/LucaScaldaferri/Credit-Score/blob/main/analise-de-credito.ipynb <br>
-Link do notebook no Kaggle: https://www.kaggle.com/code/lucasscaldaferrii/an-lise-de-cr-dito
+Link do notebook no Kaggle: https://www.kaggle.com/code/lucasscaldaferrii/an-lise-de-cr-dito <br>
 
 ## Procedimentos realizados:
-<br>
 
 ### Etapa 1:
 - Leitura e Reconhecimento dos Dados;
